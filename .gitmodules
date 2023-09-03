@@ -1,3 +1,6 @@
 [submodule "02-api-rest-nodejs"]
 	path = 02-api-rest-nodejs
 	url = https://github.com/sergipe085/02-api-rest-nodejs.git
+[submodule "01-fundamentos-nodejs"]
+	path = 01-fundamentos-nodejs
+	url = https://github.com/sergipe085/01-fundamentos-nodejs.git
